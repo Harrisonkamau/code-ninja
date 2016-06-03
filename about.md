@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+<h2>Code Ninja</h2>
+<p>I am a technology enthusiast especially of the kind that breaks the norm.</p>
+<p>I have learned programming languages like Python, JavaScript and Java.</p>
+<p></p>
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy reading legal-thriller novels.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kamauharrison87@gmail.com](mailto:email@domain.com)
