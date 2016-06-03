@@ -15,4 +15,4 @@ I enjoy reading legal-thriller novels.
 
 ### Contact me
 
-[kamauharrison87@gmail.com](mailto:email@domain.com)
+[kamauharrison87@gmail.com](kamauharrison87@gmail.comm)
