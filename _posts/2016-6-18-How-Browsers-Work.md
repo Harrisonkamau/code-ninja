@@ -13,8 +13,8 @@ title: How Browsers Work
 		<li>Safari</li>
 		<li>Opera</li>
 		</ul></p>
-	<h3>Summary</h3>(http://ptgmedia.pearsoncmg.com/images/9780789736260/samplechapter/0789736268%5FSample%5FChapter%5F18.pdf)
-	<p>
+<h3>Summary</h3>(http://ptgmedia.pearsoncmg.com/images/9780789736260/samplechapter/0789736268%5FSample%5FChapter%5F18.pdf)
+<p>
 	Like much of the Internet, the World Wide Web operates on a client/server model. You run a web
 	client on your computer—called a web browser—such as Microsoft’s Internet Explorer or Firefox. That
 	client contacts a web server and requests information or resources. The web server locates and then sends
