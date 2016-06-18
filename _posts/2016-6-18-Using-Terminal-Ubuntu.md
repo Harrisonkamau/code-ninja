@@ -2,7 +2,7 @@
 layout: post
 title: Using Linux Terminal
 ---
-<h1>Using Linux Terminal</h1>
+<h1>Introduction</h1>
 <p>Whether you’re a new Linux user or you’ve been using Linux for a while, we’ll help you get started with the terminal. The terminal isn’t something you should be scared of – it’s a powerful tool with lots of uses.</p>
 
 <h2>Basic Terminal Usage</h2>
