@@ -13,7 +13,7 @@ title: How Browsers Work
 		<li>Safari</li>
 		<li>Opera</li>
 		</ul></p>
-<h3>Summary</h3>(http://ptgmedia.pearsoncmg.com/images/9780789736260/samplechapter/0789736268%5FSample%5FChapter%5F18.pdf)
+<h3>Summary</h3>[link](http://ptgmedia.pearsoncmg.com/images/9780789736260/samplechapter/0789736268%5FSample%5FChapter%5F18.pdf)
 <p>
 	Like much of the Internet, the World Wide Web operates on a client/server model. You run a web
 	client on your computer—called a web browser—such as Microsoft’s Internet Explorer or Firefox. That
@@ -38,7 +38,7 @@ title: How Browsers Work
 	your computer and the Internet function as a single computer system.
 </p>
 
-<h2>Browser's Functionality</h2>(http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+<h2>Browser's Functionality</h2>[link](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 <p>The main function of a browser is to present the web resource you choose, by requesting it from the server and displaying it in the browser window. The resource is usually an HTML document, but may also be a PDF, image, or some other type of content. The location of the resource is specified by the user using a URI (Uniform Resource Identifier).</p>
 <p>The way the browser interprets and displays HTML files is specified in the HTML and CSS specifications. These specifications are maintained by the W3C (World Wide Web Consortium) organization, which is the standards organization for the web. </p>
 
@@ -61,14 +61,14 @@ title: How Browsers Work
 </ol>
 <p>The two main modules in any browser are The rendering engine also known as layout engine and JavaScript Interpreter</p>
 
-<h2>Components of a web page</h2>(https://docs.google.com/presentation/d/1kjC_L5C-E2Y_wOVkblJxRr6GBgw1V_FBbFI4jAoh688/edit#slide=id.gc563c71b0_1_35)
+<h2>Components of a web page</h2>[link](https://docs.google.com/presentation/d/1kjC_L5C-E2Y_wOVkblJxRr6GBgw1V_FBbFI4jAoh688/edit#slide=id.gc563c71b0_1_35)
 	<ul>
 		<li>HTML: The main component of the page/application</li>
 		<li>CSS:The style of the content</li>
 		<li>JavaScript: The logic of the application,sometimes also for animations, etc.</li>
 	</ul>
 
-<h2>Steps involved to render a webpage on a browser</h2>(https://varvy.com/pagespeed/display.html)
+<h2>Steps involved to render a webpage on a browser</h2>[link](https://varvy.com/pagespeed/display.html)
 	<ul>
 		<li>A request is made when a link is clicked. </li>
 		<li>The page and its resources (files) are downloaded. </li>
